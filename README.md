@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikatghorai&label=Profile%20views&color=0e75b6&style=flat" alt="saikatghorai" /> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **V**
 
-- 💫 I'm passionate for **Python**
+- 💫 I'm passionate for **Python, C++ and V **
 
 - ⚡ Fun fact **i use arch btw**
 
