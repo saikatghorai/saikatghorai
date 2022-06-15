@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **V**
 
-- 💫 I'm passionate for **Python, C++ and V **
+- 💫 I'm passionate for **Python, C++ and V**
 
 - ⚡ Fun fact **i use arch btw**
 
